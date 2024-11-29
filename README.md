@@ -1,2 +1,8 @@
 # dynamic-typeorm-search
-Dynamic TypeORM Search Utility
+
+A simple TypeScript utility to apply dynamic search filters to TypeORM queries.
+
+## Installation
+
+```bash
+npm install dynamic-typeorm-search

@@ -1,0 +1,35 @@
+{
+  "name": "dynamic-typeorm-search",
+  "version": "1.0.1",
+  "description": "Dynamic TypeORM Search Utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "start": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/technoharsh21/dynamic-typeorm-search.git"
+  },
+  "author": "Harsh Vaghasiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/technoharsh21/dynamic-typeorm-search/issues"
+  },
+  "homepage": "https://github.com/technoharsh21/dynamic-typeorm-search#readme",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "@types/node": "^22.10.1",
+    "typeorm": "^0.3.20"
+  },
+  "keywords": [
+    "typeorm",
+    "dynamic",
+    "query-builder",
+    "search",
+    "database"
+  ]
+}
